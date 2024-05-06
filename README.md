@@ -1,5 +1,5 @@
 
-The AMIDEAST Educational Platform Download the zip file, you will find the whole project
+The AMIDEAST Educational Platform
 
 Features
 1- Designed and implemented with my team of 4 students an Educational platform using Python and Tkinter framework.
